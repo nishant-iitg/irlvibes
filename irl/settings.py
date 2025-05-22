@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-*hjs!00cl_ypw9)z+s7c#5a7elw*&@@coeg^a*s(&q-pwa$3*e
 DEBUG = True
 
 ALLOWED_HOSTS = ['irlvibes-production.up.railway.app', 'https://irlvibes-production.up.railway.app']
-CSRF_TRUSTED_ORIGINS = ['irlvibes-production.up.railway.app', 'https://irlvibes-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://irlvibes-production.up.railway.app']
 
 # Application definition
 
